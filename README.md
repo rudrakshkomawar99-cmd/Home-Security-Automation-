@@ -48,7 +48,7 @@ this project is made using basics of C programing (like if else loop) to automat
  
     // Control Fire Sprinkler System
    if (fireSprinklerSystem == 1) {
-        printf("Fire Sprinkler System is ACTIVATED\n");
+        printf("Fire Sprinkler System is ACTIVATED and all the windowsww are opened\n");
     } else  {
         printf("Fire Sprinkler System is DEACTIVATED\n");
     }
